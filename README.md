@@ -5,10 +5,10 @@ Perfect Portoflio Template to start.
 ### 💳💳💳Credits💳💳💳
 Template was created by 
 
-        Tenzin Phuljung
+    Tenzin Phuljung
 
 
 ### ✏️✏️✏️by edited ✏️✏️✏️
 
-         Aadarsh kashyap
+    Aadarsh kashyap
 
